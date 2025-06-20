@@ -1,5 +1,30 @@
 ## Hi there 👋
+I am aliang. 
 
+I am currently pursuing a postgraduate degree at the University of Electronic Science and Technology of China and will graduate in 2026. 
+
+I hope to find a job in cities like Chengdu, Mianyang and Nanchong, with positions such as FPGA algorithm and embedded development.
+
+I'm coding for bread, waiting for the day when code will code me✨
+
+你好，我是冯亮
+
+我目前在电子科技大学读研二，并将于2026年毕业。
+
+我希望能找一份成都、绵阳、南充等城市的工作，岗位为FPGA开发、嵌入式开发等。
+
+我会好好工作，认真上班✨
+## 🌱 What I Work With
+- **Languages:** C, MATLAB, Python ...
+- **Tools:** Git, VS Code, Keil, Vivado, Vitis ...
+- **domain:** Communication algorithm, LDPC, FFT ...
+
+ ## Projects
+It is being sorted out...
+
+正在整理中...
+
+ 
 <!--
 **AliangStu/AliangStu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
