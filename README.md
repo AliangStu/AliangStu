@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 
 I am aliang. 
 
 I am currently pursuing a postgraduate degree at the University of Electronic Science and Technology of China and will graduate in 2026. 
